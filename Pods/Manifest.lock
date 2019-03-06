@@ -1,0 +1,38 @@
+PODS:
+  - lottie-ios (2.5.2)
+  - RxAtomic (4.4.1)
+  - RxCocoa (4.4.1):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.4.1):
+    - RxAtomic (~> 4.4)
+  - TwitterCore (3.0.3)
+  - TwitterKit (3.2.2):
+    - TwitterCore (>= 3.0.3)
+
+DEPENDENCIES:
+  - lottie-ios
+  - RxCocoa
+  - RxSwift
+  - TwitterCore (= 3.0.3)
+  - TwitterKit (= 3.2.2)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - lottie-ios
+    - RxAtomic
+    - RxCocoa
+    - RxSwift
+    - TwitterCore
+    - TwitterKit
+
+SPEC CHECKSUMS:
+  lottie-ios: 3fef45d3fabe63e3c7c2eb603dd64ddfffc73062
+  RxAtomic: f8d6adc1ccb87a767811269e4875887bc74dbf19
+  RxCocoa: 2f35a76bf8887872e28a1914112395b11b8e0e64
+  RxSwift: 92fcf68dfef21f3e2ab1965363d9e7b3d787597e
+  TwitterCore: 549c74ed5f3d6134392dc944c6d215e233e50ad8
+  TwitterKit: b9feccfc70bef86fe389c06a63a72fed9f020b9c
+
+PODFILE CHECKSUM: 35fa0de81f4cf88a8109e18afcee212c7894f86e
+
+COCOAPODS: 1.6.0
